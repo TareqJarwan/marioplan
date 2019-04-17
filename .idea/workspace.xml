@@ -2,32 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e968802-d3c3-467c-8ea9-e2cb8e620b30" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/auth/SignIn.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/auth/SignUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Notifications.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/Navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/SignedInLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/SignedOutLinks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/CreateProject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/ProjectDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/ProjectList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projects/ProjectSummary.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/fbConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/actionsType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/authActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/projectActions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/authReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/projectReducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/rootReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/dashboard/Notifications.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/dashboard/Notifications.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/projects/CreateProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/projects/CreateProject.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/actions/authActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/authActions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/actions/projectActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/actions/projectActions.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +21,71 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/dashboard/Notifications.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functions/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/dashboard/Dashboard.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/actions/projectActions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/actions/authActions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/projects/CreateProject.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -55,29 +100,30 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/dashboard/Notifications.js" />
         <option value="$PROJECT_DIR$/src/components/projects/PrjectList.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/store/reducers/projectReducer.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/store/reducers/rootReducer.js" />
         <option value="$PROJECT_DIR$/src/components/layout/SignedOutLinks.js" />
-        <option value="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" />
         <option value="$PROJECT_DIR$/src/config/fbConfig.js" />
         <option value="$PROJECT_DIR$/src/components/auth/SignIn.js" />
-        <option value="$PROJECT_DIR$/src/store/actions/authActions.js" />
         <option value="$PROJECT_DIR$/src/store/reducers/authReducer.js" />
         <option value="$PROJECT_DIR$/src/components/auth/SignUp.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/layout/SignedInLinks.js" />
         <option value="$PROJECT_DIR$/src/components/layout/Navbar.js" />
-        <option value="$PROJECT_DIR$/src/store/actions/projectActions.js" />
-        <option value="$PROJECT_DIR$/src/components/projects/CreateProject.js" />
         <option value="$PROJECT_DIR$/src/components/projects/ProjectList.js" />
         <option value="$PROJECT_DIR$/src/components/projects/ProjectDetails.js" />
         <option value="$PROJECT_DIR$/src/components/projects/ProjectSummary.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/CreateProject.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Notifications.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/projectActions.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/authActions.js" />
+        <option value="$PROJECT_DIR$/functions/index.js" />
       </list>
     </option>
   </component>
@@ -127,27 +173,25 @@
             <path>
               <item name="marioplan" type="b2602c69:ProjectViewProjectNode" />
               <item name="marioplan" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="marioplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marioplan" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marioplan" type="b2602c69:ProjectViewProjectNode" />
               <item name="marioplan" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="marioplan" type="b2602c69:ProjectViewProjectNode" />
               <item name="marioplan" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="actions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="marioplan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="marioplan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="reducers" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,6 +203,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -237,12 +282,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555243241327</updated>
-      <workItem from="1555243242523" duration="34594000" />
+      <workItem from="1555243242523" duration="42809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34594000" />
+    <option name="totallyTimeSpent" value="42809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="-2" width="1853" height="1202" extended-state="6" />
@@ -255,10 +300,10 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1444383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="TypeScript" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32919848" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.52767175" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32908913" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Version Control" weight="0.32919848" />
       <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -289,24 +334,10 @@
     <entry file="file://$PROJECT_DIR$/public/Screenshot from 2019-04-14 15-41-33.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Notifications.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
           <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -361,13 +392,6 @@
           <folding>
             <element signature="e#0#36#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/actions/authActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -447,23 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/projects/CreateProject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/projects/ProjectList.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -494,10 +501,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/CreateProject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/store/actions/projectActions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="306">
+          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/authActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

@@ -21,7 +21,6 @@ class CreateProject extends Component {
             title: this.state.title,
             content: this.state.content
         };
-
         this.props.createProject(data);
         this.props.history.push('/');
     };
